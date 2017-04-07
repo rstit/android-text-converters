@@ -1,5 +1,13 @@
 *.iml
+*.jks
+*.log
+*.dex
+*.apk
+*.ap_
+*.class
 .gradle
+.navigation/
+proguard/
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
@@ -7,3 +15,13 @@
 /build
 /captures
 .externalNativeBuild
+
+
+
+
+
+
+
+
+
+
